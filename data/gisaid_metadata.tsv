@@ -1,0 +1,236 @@
+strain	Accession ID	date	region	country	division	Location	Host	Passage	Specimen	Additional host information	Sequencing technology	Assembly method	Comment	Comment type	Lineage	Clade
+Australia/NSW2520/2020	EPI_ISL_509521	2020-07-08	Oceania	Australia	New South Wales	Oceania / Australia / New South Wales	Human		Male	27	unknown	Original			B.1.1.25	GR
+Australia/NSW658/2020	EPI_ISL_498777	2020-07-13	Oceania	Australia	New South Wales	Oceania / Australia / New South Wales / Sydney	Human	Original			Illumina iSeq				B.1.1.25	G
+Australia/QLDID922/2020	EPI_ISL_418799	2020-02-28	Oceania	Australia	Queensland	Oceania / Australia / Queensland / Brisbane	Human	Original	Nasopharyngeal swab		Illumina NextSeq	Geneious 11.1.5			B	L
+Australia/QLDID926/2020	EPI_ISL_418804	2020-03-18	Oceania	Australia	Queensland	Oceania / Australia / Queensland / Sunshine Coast	Human	Original	Swab		Illumina NextSeq	Geneious 11.1.5			B.1.1	GR
+Australia/SAP443/2020	EPI_ISL_508134	2020-07-22	Oceania	Australia	South Australia	Oceania / Australia / South Australia	Human	Original			Illumina NextSeq 550				B.1.1.25	GR
+Australia/SAP446/2020	EPI_ISL_508137	2020-03-20	Oceania	Australia	South Australia	Oceania / Australia / South Australia	Human	Original			Illumina NextSeq 550				B.1.31	GH
+Australia/VIC153/2020	EPI_ISL_419850	2020-03-17	Oceania	Australia	Victoria	Oceania / Australia / Victoria	Human	Original			Illumina NextSeq 550	ARTIC V1 amplicons, Nextera XT library, minimap2 v2.17, ivar v1.1, samtools v1.10			B.1.1	GR
+Australia/VIC2165/2020	EPI_ISL_480772	2020-03-19	Oceania	Australia	Victoria	Oceania / Australia / Victoria	Human	Original			Illumina NextSeq 500	ARTIC v3, minimap2 v2.17, ivar v1.2.2, samtools v1.10			B.1.1.25	GR
+Australia/VIC218/2020	EPI_ISL_419913	2020-03-20	Oceania	Australia	Victoria	Oceania / Australia / Victoria	Human	Original			Illumina NextSeq 550	ARTIC V1 amplicons, Nextera XT library, minimap2 v2.17, ivar v1.1, samtools v1.10			B.2.1	V
+Australia/VIC509/2020	EPI_ISL_426779	2020-03-22	Oceania	Australia	Victoria	Oceania / Australia / Victoria	Human	Original			Illumina NextSeq 550	ARTIC v3 amplicons, NexteraXT library, minimap2 v2.17, ivar v1.2, samtools v1.10			B.2.4	V
+Austria/CeMM0305/2020	EPI_ISL_475780	2020-03-29	Europe	Austria	Vienna	Europe / Austria / Vienna	Human	Original	Oropharyngeal swab		Illumina NovaSeq	bwa			B.1.1	GR
+Bangladesh/BCSIR-NILMRC-287/2020	EPI_ISL_504177	2020-07-14	Asia	Bangladesh	Rangpur	Asia / Bangladesh / Rangpur / Nilphamari	Human	Original	Nasopharyngeal Swab		NextSeq 550	DRAGEN RNA Pathogen Detection 3.5.14			B.1.1	G
+Bangladesh/BCSIR-NILMRC-295/2020	EPI_ISL_504179	2020-07-18	Asia	Bangladesh	Sylhet	Asia / Bangladesh / Sylhet / Moulvibazar	Human	Original	Nasopharyngeal Swab		NextSeq 550	DRAGEN RNA Pathogen Detection 3.5.14			B.1.1	GR
+Bangladesh/BCSIR-NILMRC_236/2020	EPI_ISL_487386	2020-07-06	Asia	Bangladesh	Barishal	Asia / Bangladesh / Barishal	Human	Original	Nasopharyngeal Swab		MiniSeq	DRAGEN RNA Pathogen Detection 3.5.14			B.1.1	GR
+Bangladesh/BCSIR-NILMRC_238/2020	EPI_ISL_487393	2020-07-06	Asia	Bangladesh	Barishal	Asia / Bangladesh / Barishal	Human	Original	Nasopharyngeal Swab		MiniSeq	DRAGEN RNA Pathogen Detection 3.5.14			B.1.1.25	GR
+Bangladesh/BCSIR-NILMRC_291/2020	EPI_ISL_498550	2020-07-18	Asia	Bangladesh	Moulvibazar	Asia / Bangladesh / Sylhet / Moulvibazar	Human	Original	Nasopharyngeal Swab		Illumina NextSeq 550	DRAGEN RNA Pathogen Detection 3.5.14			B.1.1	GR
+Bangladesh/BCSIR-NILMRC_296/2020	EPI_ISL_498817	2020-07-18	Asia	Bangladesh	Sylhet	Asia / Bangladesh / Sylhet	Human	Original	Nasopharyngeal Swab		NextSeq 550	DRAGEN RNA Pathogen Detection 3.5.14			B.1.1.25	GR
+Belgium/UGent-96/2020	EPI_ISL_468744	2020-03-17	Europe	Belgium	Ghent	Europe / Belgium / Ghent	Human	Original			Nanopore MinION	Artic network			B.1.1	GR
+Belgium/ULG-10001/2020	EPI_ISL_421182	2020-03-05	Europe	Belgium	Liège	Europe / Belgium / Liège	Human	Original			Nanopore MinION	Artic network			B.1	GH
+Brazil/SP-14/2020	EPI_ISL_416036	2020-03-05	South America	Brazil	Sao Paulo	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Naso-pharyngeal swab	Travel to Italy	Ion Torrent S5	SPADes			B.1.1.28	GR
+Canada/NL_82/2020	EPI_ISL_469224	2020-03-22	North America	Canada	Newfoundland and Labrador	North America / Canada / Newfoundland and Labrador	Human	Original	Nasopharyngeal Swab		Nanopore MinION	ARTIC Bioinformatics Protocol			B.1	GH
+Canada/ON_PHL1095/2020	EPI_ISL_418361	2020-03-12	North America	Canada	Ontario	North America / Canada / Ontario	Human	Original			Illumina NextSeq	CLC Genomics Workbench 8.5.3			B.1	GH
+Canada/ON_PHL3318/2020	EPI_ISL_418324	2020-03-11	North America	Canada	Ontario	North America / Canada / Ontario	Human	Original			Illumina NextSeq	CLC Genomics Workbench 8.5.3			B.4	O
+Denmark/ALAB-HH-150/2020	EPI_ISL_452026	2020-03-19	Europe	Denmark	unknown	Europe / Denmark	Human	Original			Nanopore MinION				B.1.118	GH
+Denmark/ALAB-HH-248/2020	EPI_ISL_452086	2020-04-25	Europe	Denmark	unknown	Europe / Denmark	Human	Original			Nanopore MinION				B.1.107	G
+Denmark/ALAB-HH66/2020	EPI_ISL_429312	2020-03-18	Europe	Denmark	unknown	Europe / Denmark	Human	Original			Nanopore MinION	Artic Network			B.1.39	GH
+Denmark/ALAB-SSI-1248/2020	EPI_ISL_444826	2020-03-11	Europe	Denmark	unknown	Europe / Denmark	Human	Original			Nanopore MinION				B.1	GH
+Denmark/ALAB-SSI262/2020	EPI_ISL_429424	2020-03-10	Europe	Denmark	unknown	Europe / Denmark	Human	Original			Nanopore MinION	Artic Network			B.1.8	G
+Denmark/SSI-102/2020	EPI_ISL_415647	2020-03-03	Europe	Denmark	Copenhagen	Europe / Denmark / Copenhagen	Human	Original	mouth swab		Illumina MiSeq	Geneious 2020			B.1	G
+England/20102000604/2020	EPI_ISL_464261	2020-03-01	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NextSeq	PHE pipeline (BWA-SAMtools-Quasibam)	[W] Stretches of NNNs (1.22% of overall sequence).	warn	B.1	G
+England/20109051806/2020	EPI_ISL_417270	2020-03-06	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NextSeq	PHE pipeline (BWA-SAMtools-Quasibam)			B.2.1	V
+England/201160628/2020	EPI_ISL_464797	2020-03-10	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NextSeq	PHE pipeline (BWA-SAMtools-Quasibam)			B.2.1	V
+England/202822171/2020	EPI_ISL_490228	2020-05-30	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NextSeq	PHE pipeline (BWA-SAMtools-Quasibam)			B.2	V
+England/BRIS-123859/2020	EPI_ISL_459727	2020-04-07	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			ILLUMINA NovaSeq		[W] Stretches of NNNs (1.37% of overall sequence).	warn	B.1.1.1	GR
+England/BRIS-1254DB/2020	EPI_ISL_444017	2020-03-27	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original	unknown	unknown	ILLUMINA NovaSeq	unknown	[W] Stretches of NNNs (1.80% of overall sequence).	warn	B.1	GH
+England/BRIS-18531D3/2020	EPI_ISL_492444	2020-04-01	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			ILLUMINA NovaSeq				B.1.1	GR
+England/CAMB-1ABCA8/2020	EPI_ISL_470098	2020-04-20	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			ILLUMINA NovaSeq				B.1.36	GH
+England/CAMB-1AD4AE/2020	EPI_ISL_489563	2020-04-24	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			ILLUMINA NovaSeq				B.1.1.1	GR
+England/CAMB-721F7/2020	EPI_ISL_439657	2020-03-28	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq		[W] Stretches of NNNs (1.21% of overall sequence).	warn	B.1	G
+England/CAMB-734B1/2020	EPI_ISL_439997	2020-03-20	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq				B.1.1	GR
+England/CAMB-73FDE/2020	EPI_ISL_440322	2020-03-19	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq		[W] Stretches of NNNs (1.46% of overall sequence).	warn	B.1.5	G
+England/CAMB-75895/2020	EPI_ISL_440368	2020-03-18	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq		[W] Stretches of NNNs (1.17% of overall sequence).	warn	B.1.1.3	GR
+England/CAMB-764DC/2020	EPI_ISL_439408	2020-03-30	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq		[W] Stretches of NNNs (1.21% of overall sequence).	warn	B.1.1	GR
+England/CAMB-7A64B/2020	EPI_ISL_440618	2020-04-02	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq		[W] Stretches of NNNs (1.09% of overall sequence).	warn	B.1.1	GR
+England/CAMB-7C403/2020	EPI_ISL_442325	2020-04-05	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq				B.1.30	GH
+England/CAMB-7CDF9/2020	EPI_ISL_442078	2020-04-05	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq		[W] Stretches of NNNs (1.32% of overall sequence).	warn	B.1.1	GR
+England/CAMB-8475A/2020	EPI_ISL_440486	2020-02-27	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina MiSeq		[W] Stretches of NNNs (1.09% of overall sequence).	warn	B.1	G
+England/CAMB-84E37/2020	EPI_ISL_440459	2020-03-13	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina MiSeq		[W] Stretches of NNNs (1.09% of overall sequence).	warn	B.2.1	V
+England/LIVE-9B019/2020	EPI_ISL_449403	2020-03-27	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina		[W] Stretches of NNNs (3.82% of overall sequence).	warn	B.1.1.7	GR
+England/LIVE-A4CDD/2020	EPI_ISL_500083	2020-03-12	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina				B.1.1	GR
+England/LIVE-A6127/2020	EPI_ISL_499523	2020-03-21	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina		Stretches of NNNs (1.44% of overall sequence).	warn	B.1.1.1	GR
+England/LIVE-A6154/2020	EPI_ISL_499589	2020-03-21	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina		Stretches of NNNs (2.81% of overall sequence).	warn	B.1.1.1	GR
+England/LIVE-A6215/2020	EPI_ISL_499694	2020-03-21	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina				B.2.1	V
+England/LOND-D9880/2020	EPI_ISL_487645	2020-04-15	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			ILLUMINA NovaSeq		Stretches of NNNs (1.50% of overall sequence). Insertion of 1 nucleotide(s) found at refpos 11074 (FRAMESHIFT). Insertion of 1 nucleotides when compared to the reference sequence.	warn	B.1.1.15	GR
+England/NORT-28910A/2020	EPI_ISL_458686	2020-03-27	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			ILLUMINA NovaSeq				B.1.1	GR
+England/NORW-E6F7C/2020	EPI_ISL_453547	2020-04-22	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original	unknown		ILLUMINA	unknown			B.1.1	GR
+England/OXON-AF452/2020	EPI_ISL_478740	2020-04-13	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina				B.1.1	GR
+England/PORT-2D0EA3/2020	EPI_ISL_475299	2020-03-31	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Oxford Nanopore	unknown			B.1.1	GR
+England/SHEF-C079E/2020	EPI_ISL_420157	2020-03-28	Europe	United Kingdom	South Yorkshire	Europe / United Kingdom / England / South Yorkshire	Human	Original			Nanopore				B.1.1	GR
+England/WSFT-25C110D/2020	EPI_ISL_492899	2020-05-06	Europe	United Kingdom	England	Europe / United Kingdom / England	Human	Original			Illumina NovaSeq				B.1.1	GR
+Finland/13M64/2020	EPI_ISL_418394	2020-03-13	Europe	Finland	unknown	Europe / Finland	Human	Original	Nasopharyngeal swap		Illumina Miseq	BWA-MEM			B.1.36	GH
+France/211_80/2020	EPI_ISL_469282	2020-03-11	Europe	France	Paris	Europe / France / Paris	Human	Initial isolation on VeroE6 cells	Oro-pharyngeal swab		Illumina MiSeq				B.1	GH
+France/ARA18366/2020	EPI_ISL_508967	2020-04-02	Europe	France	ARA	Europe / France / ARA / Lyon	Human	Original	Nasopharyngeal swab		Illumina Nextseq	bwa, samtools, custom			B.1	GH
+France/B5325/2020	EPI_ISL_443267	2020-03-18	Europe	France	Bretagne	Europe / France / Bretagne / Brest	Human	Original	Naso-pharyngeal swab		Illumina NextSeq 500	CLC Genomics Suite			B.1.1	GR
+France/Bourg-en-Bresse_06678/2020	EPI_ISL_416757	2020-03-07	Europe	France	ARA	Europe / France / ARA	Human	Original			Illumina Nextseq	BWA, samtools			B.1	G
+France/GE1977/2020	EPI_ISL_414632	2020-03-04	Europe	France	Grand-Est	Europe / France / Grand-Est / Reims	Human	Original	Ora-pharyngeal swab		Illumina NextSeq 500	CLC Genomics Workbench 20			B.1	GH
+France/HF3598/2020	EPI_ISL_428358	2020-03-24	Europe	France	Hauts de France	Europe / France / Hauts De France / Chateau-thierry	Human	Original	Oro-pharyngeal swab		Illumina NextSeq 500	CLC Genomics Suite			B.1	GH
+France/IDF0372/2020	EPI_ISL_406596	2020-01-23	Europe	France	Ile-de-France	Europe / France / Ile-de-France / Paris	Human	Original	Oro-Pharyngeal swab		Illumina NextSeq 500	CLC Genomics Workbench 20			B.2	O
+France/IDF3029/2020	EPI_ISL_420052	2020-03-20	Europe	France	Ile de France	Europe / France / Ile de France / Asnières-sur-Seine	Human	Original	Oro-pharyngeal swab		Illumina NextSeq 500	CLC Genomics Suite			B.1	GH
+France/Valence_425/2020	EPI_ISL_416746	2020-03-03	Europe	France	ARA	Europe / France / ARA	Human	Original	Nasopharyngeal swab		NextSeq 500	BWA, samtools			B.1.1	GR
+Greece/153_33892/2020	EPI_ISL_437902	2020-03-14	Europe	Greece	Athens	Europe / Greece / Athens	Human	Original	Naso-pharyngeal swab		Ion Torrent	IRMA v1.0			B.1.1	GR
+Guangdong/20SF028/2020	EPI_ISL_403936	2020-01-17	Asia	China	Guangdong	Asia / China / Guangdong / Zhuhai	Human	Original	throat swab		illumina	SPAdes/MEGAHIT			B	L
+Iceland/13/2020	EPI_ISL_417765	2020-02-27	Europe	Iceland	Reykjavik	Europe / Iceland / Reykjavik	Human	Original		Traveled from Italy	Illumina Miseq	Mpileup	Stretches of NNNs (1.77% of overall sequence).	warn	B.2	V
+Iceland/133/2020	EPI_ISL_417788	2020-03-12	Europe	Iceland	Reykjavik	Europe / Iceland / Reykjavik	Human	Original		Traveled from UK	Illumina Miseq	Mpileup			B.1	G
+Iceland/189/2020	EPI_ISL_417709	2020-03-16	Europe	Iceland	Reykjavik	Europe / Iceland / Reykjavik	Human	Original			Illumina Miseq	Mpileup			B.1.102	G
+Iceland/243/2020	EPI_ISL_417571	2020-03-17	Europe	Iceland	Reykjavik	Europe / Iceland / Reykjavik	Human	Original			Illumina Miseq	Mpileup			B.1.1	GR
+Iceland/319/2020	EPI_ISL_417648	2020-03-18	Europe	Iceland	Reykjavik	Europe / Iceland / Reykjavik	Human	Original		Traveled from Spain	Illumina Miseq	Mpileup	Stretches of NNNs (1.51% of overall sequence).	warn	B.1	GH
+Iceland/336/2020	EPI_ISL_417665	2020-03-14	Europe	Iceland	Reykjavik	Europe / Iceland / Reykjavik	Human	Original		Traveled from USA	Illumina Miseq	Mpileup			B.1	GH
+Iceland/62/2020	EPI_ISL_417757	2020-03-06	Europe	Iceland	Reykjavik	Europe / Iceland / Reykjavik	Human	Original			Illumina Miseq	Mpileup			B.1.1.17	GR
+India/CCMB_J021/2020	EPI_ISL_447556	2020-03-30	Asia	India	Telangana	Asia / India / Telangana	Human	Original	Naso-pharyngeal swab/Oro-pharyngeal swab	-	Illumina NovaSeq 6000	Reference based			B.6	O
+India/CCMB_L1026/2020	EPI_ISL_458050	2020-05-11	Asia	India	Telangana	Asia / India / Telangana	Human	Original	Naso-pharyngeal swab/Oro-pharyngeal swab	-	Illumina NovaSeq 6000	Reference based			B.1.1.8	GR
+India/CCMB_L1459/2020	EPI_ISL_471596	2020-05-25	Asia	India	Telangana	Asia / India / Telangana	Human	Original	Naso-pharyngeal swab/Oro-pharyngeal swab		Illumina NovaSeq 6000	Reference based			B.1.36	GH
+India/GBRC54/2020	EPI_ISL_444485	2020-05-04	Asia	India	Gujarat	Asia / India / Gujarat / Modasa	Human	Original	Oro-pharyngeal swab		Ion Torrent	CLC Genomics Workbench 12			B.1.36	GH
+India/S2/2020	EPI_ISL_430468	2020-03-21	Asia	India	West_Bengal	Asia / India / West_Bengal / Kolkata	Human	Original	unknown	unknown	Illumina Miseq	Illumina BaseSpace DRAGEN RNA Pathogen Detection v3.5.9			B.1.1	GR
+Ireland/71IRL06434/2020	EPI_ISL_500580	2020-07-06	Europe	Ireland	Dublin	Europe / Ireland / Dublin	Human	Original	Oro-Nasopharyngeal swab		Oxford Nanopore MinION	ARTIC v3 Protocol			B.1.1	GR
+Israel/CVL-n-6134/2020	EPI_ISL_475021	2020-03-15	Asia	Israel	Tel-Aviv	Asia / Israel / Tel-Aviv	Human	Original	Oro-pharyngeal swab		Illumina NextSeq	BWA			B.1	GH
+Israel/CVL-n-6157/2020	EPI_ISL_475022	2020-03-15	Asia	Israel	Tel-Aviv	Asia / Israel / Tel-Aviv	Human	Original	Oro-pharyngeal swab		Illumina NextSeq	BWA			B.1	GH
+Italy/IZSM-32798-45/2020	EPI_ISL_493332	2020-03-28	Europe	Italy	Benevento	Europe / Italy / Benevento	Human	Vero cells			Illumina Miseq	BWA 0.7.12 + Samtools 1.3.1 + Geneious 2019.2.3 + DRAGEN 3.5.14			B.1.5	G
+Italy/PV-5314-N/2020	EPI_ISL_451307	2020-02-21	Europe	Italy	Lombardia	Europe / Italy / Lombardia	Human	Original	Nasopharyngeal swab		Ion Torrent	Trinity v2.8.4 + Geneious 2019.2.3			B.1	G
+Luxembourg/LNS3879580/2020	EPI_ISL_419585	2020-03-14	Europe	Luxembourg	unknown	Europe / Luxembourg	Human	Original			Illumina MiniSeq (Amplicon, ARTIC primer set V1)	Bowtie2, BCFtools			B.1	GH
+Luxembourg/LNS6533667/2020	EPI_ISL_429741	2020-03-28	Europe	Luxembourg	unknown	Europe / Luxembourg	Human	Original			Illumina MiniSeq (Amplicon, ARTIC primer set V1)	Bowtie2, BCFtools			B.1	G
+Netherlands/Friesland_4/2020	EPI_ISL_422569	2020-03-27	Europe	Netherlands	Friesland	Europe / Netherlands / Friesland	Human	Original			Nanopore				B.1	G
+Netherlands/Limburg_51/2020	EPI_ISL_461039	2020-03-28	Europe	Netherlands	Limburg	Europe / Netherlands / Limburg	Human	Original			Nanopore	unknown			B.1.1	GR
+Netherlands/NA_163/2020	EPI_ISL_422698	2020-03-21	Europe	Netherlands	unknown	Europe / Netherlands	Human	Original			Nanopore	unknown			B.1.1	GR
+Netherlands/Utrecht_10028/2020	EPI_ISL_454777	2020-04-01	Europe	Netherlands	Utrecht	Europe / Netherlands / Utrecht	Human	Original			Illumina Nextseq				B.1.1	GR
+Netherlands/Utrecht_10037/2020	EPI_ISL_454786	2020-03-11	Europe	Netherlands	Utrecht	Europe / Netherlands / Utrecht	Human	Original			Illumina Nextseq				B.1.8	G
+Netherlands/ZuidHolland_7/2020	EPI_ISL_414467	2020-03-05	Europe	Netherlands	Zuid	Europe / Netherlands / Zuid Holland	Human	Original			Nanopore		Gap of 6 nucleotides when compared to the reference sequence.	info	B	L
+Norway/1526/2020	EPI_ISL_417485	2020-03-02	Europe	Norway	Oslo	Europe / Norway / Oslo	Human	Original	Nasopharyngeal swab		Illumina MiSeq	Assembly by reference based mapping using Tanoti			B.1.5	G
+Norway/2856/2020	EPI_ISL_500779	2020-07-02	Europe / Norway	Human	Original	Upper respiratory secretion		Illumina MiSeq; ARTIC v.3	Assembly by reference based mapping using Tanoti			B.1.1	GR
+Peru/01-2/2020	EPI_ISL_482468	2020-03-05	South America	Peru	Lima	South America / Peru / Lima	Human	Original	Oro-pharyngeal swab		Illumina Miseq	SPAdes			B.1	G
+Pingxiang/JX151/2020	EPI_ISL_421259	2020-01-27	Asia	China	Jiangxi	Asia / China / Jiangxi / Pingxiang	Human	Original				CLC Genomics Workbench 12			B	L
+Portugal/PT0035/2020	EPI_ISL_418020	2020-03-16	Europe	Portugal	unknown	Europe / Portugal	Human	Original	Naso-Oropharyngeal swab		Illumina MiSeq	INSaFLU			B.2.1	V
+Portugal/PT0306/2020	EPI_ISL_454022	2020-03-14	Europe	Portugal	unknown	Europe / Portugal	Human	Original			Illumina NextSeq 550	INSaFLU			B.1	G
+Portugal/PT0744/2020	EPI_ISL_511003	2020-03-22	Europe	Portugal	unknown	Europe / Portugal	Human		unknown	unknown	unknown	Original			B.1	G
+Portugal/PT1256/2020	EPI_ISL_511217	2020-03-18	Europe	Portugal	unknown	Europe / Portugal	Human	unknown	unknown	unknown	Original	B.1	G
+Romania/ROSV_2899/2020	EPI_ISL_491063	2020-04-17	Europe	Romania	Suceava	Europe / Romania / Suceava	Human	Original			Ion Torrent				B.1.5	G
+Russia/Chechenya-83801/2020	EPI_ISL_428909	2020-03-26	Europe	Russia	Chechen Republic	Europe / Russia / Chechen Republic	Human	Vero	Oro-pharyngeal swab		Illumina Miseq	bwa v0.7.15, IGV v2.4.14			B.1.36	GH
+Russia/StPetersburg-RII3997/2020	EPI_ISL_420081	2020-03-18	Europe	Russia	Saint-Petersburg	Europe / Russia / Saint-Petersburg	Human	Original	Nasopharyngeal swab		Nanopore MinION	Minimap2 + Ugene v33			B.1	GH
+Scotland/CVR106/2020	EPI_ISL_425652	2020-03-13	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original	unknown		ILLUMINA MiSeq	unknown			B.1.69	G
+Scotland/CVR140/2020	EPI_ISL_425684	2020-03-16	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original	unknown		ILLUMINA MiSeq	unknown			B.1	G
+Scotland/CVR34/2020	EPI_ISL_425763	2020-03-12	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original	unknown		ILLUMINA MiSeq	unknown			B.1	G
+Scotland/EDB086/2020	EPI_ISL_425878	2020-03-21	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original	unknown		OXFORD_NANOPORE MinION	unknown			B.2.1	V
+Scotland/EDB1106/2020	EPI_ISL_433397	2020-04-08	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original			OXFORD_NANOPORE GridION	unknown			B.1.1.1	GR
+Scotland/EDB1198/2020	EPI_ISL_433429	2020-04-08	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original			OXFORD_NANOPORE GridION	unknown			B.1.5	G
+Scotland/EDB1404/2020	EPI_ISL_433439	2020-04-11	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original			OXFORD_NANOPORE GridION	unknown			B.1.89	G
+Scotland/EDB2711/2020	EPI_ISL_488988	2020-03-27	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original			ILLUMINA NovaSeq				B.1.1	GR
+Scotland/EDB2724/2020	EPI_ISL_487811	2020-03-27	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original			ILLUMINA NovaSeq				B.1.93	G
+Scotland/EDB5108/2020	EPI_ISL_453188	2020-03-31	Europe	United Kingdom	Scotland	Europe / United Kingdom / Scotland	Human	Original	unknown		OXFORD_NANOPORE	unknown	[W] Stretches of NNNs (1.37% of overall sequence).	warn	B.1.9	GH
+Sichuan/SC-WCH1-005/2020	EPI_ISL_451376	2020-01-28	Asia	Chicago	Sichuan	Asia / China / Sichuan	Human	Original	Throat swabs		Nanopore Minion	ARTIC			B	O
+Sichuan/SC-WCH3-254/2020	EPI_ISL_451383	2020-02-02	Asia	Chicago	Sichuan	Asia / China / Sichuan	Human	Original	Throat swabs		Nanopore Minion	ARTIC			A	S
+Sichuan/SC-YB-086/2020	EPI_ISL_451399	2020-02-04	Asia	Chicago	Sichuan	Asia / China / Sichuan	Human	Original	Throat swabs		Nanopore Minion	ARTIC	[W] Gap of 5 nucleotide(s) found at refpos 17201 (FRAMESHIFT). Gap of 5 nucleotides when compared to the reference sequence. NSP13 is missing. NSP13 is missing.	warn	B	L
+Singapore/768/2020	EPI_ISL_509378	2020-06-03	Asia	Singapore	unknown	Asia / Singapore	Human	Original			Nanopore MinION				B.6	O
+Singapore/776/2020	EPI_ISL_509386	2020-07-13	Asia	Singapore	unknown	Asia / Singapore	Human	Original			Nanopore MinION				B.6	O
+Spain/Madrid-H12-1804/2020	EPI_ISL_421174	2020-03-29	Europe	Spain	Madrid	Europe / Spain / Madrid	Human	Original	Oro-pharyngeal swab		Nanopore MinION	ARTIC pipeline			B.1.5	G
+Spain/PaisVasco201602/2020	EPI_ISL_419709	2020-03-04	Europe	Spain	BasqueCountry	Europe / Spain / BasqueCountry	Human	Original	Oro-pharyngeal swab		Illumina Miseq	Mapping consensus			A.2	S
+Spain/Valencia264/2020	EPI_ISL_436359	2020-03-27	Europe	Spain	Comunitat_Valenciana	Europe / Spain / Comunitat_Valenciana / Valencia	Human	Original			Illumina MiSeq	BWA/IVAR	[W] Stretches of NNNs (1.29% of overall sequence).	warn	B.1.5	G
+Spain/Valencia292/2020	EPI_ISL_436387	2020-03-17	Europe	Spain	Comunitat_Valenciana	Europe / Spain / Comunitat_Valenciana / Valencia	Human	Original			Illumina MiSeq	BWA/IVAR			B.1.5	G
+Spain/Valencia293/2020	EPI_ISL_436388	2020-03-17	Europe	Spain	Comunitat_Valenciana	Europe / Spain / Comunitat_Valenciana / Valencia	Human	Original			Illumina MiSeq	BWA/IVAR			B.1.1	GR
+Sweden/20-08073/2020	EPI_ISL_454450	2020-03-03	Europe	Sweden	Stockholm	Europe / Sweden / Stockholm	Human	Original			Ion Torrent S5 XL, Ion AmpliSeq SARS-CoV-2	Consensus extraction from NC_045512 using torrent suite variantCaller with fill from reference and majority wins			B.1	G
+Sweden/20-08098/2020	EPI_ISL_454469	2020-03-06	Europe	Sweden	Stockholm	Europe / Sweden / Stockholm	Human	Original			Ion Torrent S5 XL, Ion AmpliSeq SARS-CoV-2	Consensus extraction from NC_045512 using torrent suite variantCaller with fill from reference and majority wins			B.1.1	GR
+Sweden/20-08681/2020	EPI_ISL_429129	2020-03-27	Europe	Sweden	Norrbotten	Europe / Sweden / Norrbotten	Human	Original			Ion Torrent S5 XL, Ion AmpliSeq SARS-CoV-2	Consensus extraction from NC_045512 using torrent suite variantCaller with fill from reference and majority wins	Gap of 9 nucleotides when compared to the reference sequence. 	info	B.1	GH
+Sweden/20-50106/2020	EPI_ISL_469075	2020-03-03	Europe	Sweden	Stockholm	Europe / Sweden / Stockholm	Human	Original			Ion Torrent S5 XL, Ion AmpliSeq SARS-CoV-2	Consensus extraction from NC_045512 using torrent suite variantCaller with fill from reference and majority wins			B.1.1	GR
+Sweden/20-50141/2020	EPI_ISL_455857	2020-03-04	Europe	Sweden	Stockholm	Europe / Sweden / Stockholm	Human	Original			Ion Torrent S5 XL, Ion AmpliSeq SARS-CoV-2	Consensus extraction from NC_045512 using torrent suite variantCaller with fill from reference and majority wins			B.1.1	GR
+Sweden/20-50234/2020	EPI_ISL_429157	2020-03-10	Europe	Sweden	Orebro	Europe / Sweden / Orebro lan	Human	Original			Ion Torrent S5 XL, Ion AmpliSeq SARS-CoV-2	Consensus extraction from NC_045512 using torrent suite variantCaller with fill from reference and majority wins			B.1.1	GR
+Switzerland/1000477102/2020	EPI_ISL_413019	2020-02-26	Europe	Switzerland	Zurich	Europe / Switzerland / Zurich	Human	Original	Oro-pharyngeal swab		Illumina Miseq	SMALT	Insertion of 3 nucleotides when compared to the reference sequence.	info	B.2	V
+Switzerland/1000482983/2020	EPI_ISL_508865	2020-03-15	Europe	Switzerland	Zurich	Europe / Switzerland / Zurich	Human	Original	Nasal swab		Illumina Miseq	SMALT, majority consenus			B.1	G
+Switzerland/190019_543_A12/2020	EPI_ISL_500884	2020-07-06	Europe	Switzerland	Zurich	Europe / Switzerland / Zurich	Human	Original	Oro-pharyngeal swab		Illumina MiSeq	V-pipe			B.1	G
+Switzerland/190026_546_F10/2020	EPI_ISL_500890	2020-07-07	Europe	Switzerland	Bern	Europe / Switzerland / Bern	Human	Original	Oro-pharyngeal swab		Illumina MiSeq	V-pipe			B.1.1	GR
+Switzerland/200020_594_B05/2020	EPI_ISL_510709	2020-07-14	Europe	Switzerland	Bern	Europe / Switzerland / Bern	Human		unknown	unknown	unknown	Original	Oro-pharyngeal swab		B.1.1	GR
+Switzerland/200050_611_H04/2020	EPI_ISL_510735	2020-07-11	Europe	Switzerland	Schaffhausen	Europe / Switzerland / Schaffhausen	Human		unknown	unknown	unknown	Original	Oro-pharyngeal swab		B.1.1	GR
+Switzerland/210037_640_F02/2020	EPI_ISL_510778	2020-07-22	Europe	Switzerland	Zurich	Europe / Switzerland / Zurich	Human		unknown	unknown	unknown	Original	Oro-pharyngeal swab		B.1.1	GR
+Taiwan/CGMH-CGU-03/2020	EPI_ISL_415741	2020-02-26	Asia	Taiwan	Taoyuan	Asia / Taiwan / Taoyuan	Human	LLC-MK2	Nasopharyngeal swab		Illumina Miseq, assembled sequences	SPAdes Version 3.13.1			B.4	O
+Taiwan/CGMH-CGU-12/2020	EPI_ISL_417525	2020-03-14	Asia	Taiwan	Taoyuan	Asia / Taiwan / Taoyuan	Human	LLC-MK2	Throat swab		Illumina Miseq, assembled sequences	SPAdes Version 3.13.1			B.1.1	GR
+Thailand/SI203285-NT/2020	EPI_ISL_437612	2020-01-23	Asia	Thailand	unknown	Asia / Thailand	Human	unknown	Nasopharyngeal swab and Throat swab		Illumina; MGI	IDBA-UD v. 1.1.3.			A.6	S
+Turkey/HSGM-8990/2020	EPI_ISL_429870	2020-03-22	Europe	Turkey	Sakarya	Europe / Turkey / Sakarya	Human	Original	Sputum	Patient travelled to Saudi Arabia	Illumina Miseq	Burrows-Wheeler Alignerv.07.17-r1188			B.1.1	G
+Turkey/KU-008/2020	EPI_ISL_495418	2020-05-16	Europe	Turkey	Kars Province	Europe / Turkey / Kars Province	Human	Original	Nasopharyngeal swab		Illumina NextSeq 550	Burrows-Wheeler Aligner v.0.7			B.1.1	GR
+USA/CA-ALSR-0515-SAN/2020	EPI_ISL_483194	2020-03-04	North America	USA	California	North America / USA / California / San Diego	Human	Original	Nasopharyngeal swab		Illumina	iVar 1.2.2			B.1	GH
+USA/CA-ALSR-1669/2020	EPI_ISL_494729	2020-03-20	North America	USA	California	North America / USA / California / San Diego	Human	Original	Nasopharyngeal swab		Illumina	iVar 1.2.2			B.1.43	GH
+USA/CA-CZB-1217/2020	EPI_ISL_450466	2020-03-23	North America	USA	California	North America / USA / California / Santa Clara County	Human	Original	Nasopharyngeal/oropharyngeal swab		Illumina Novaseq	Minimap2 / iVar			B.1.1	GR
+USA/CA-CZB-1494/2020	EPI_ISL_468444	2020-03-24	North America	USA	California	North America / USA / California / Humboldt County	Human	Original	Nasopharyngeal/oropharyngeal swab		Illumina Novaseq	minimap2 / iVar			B.1.1.10	GR
+USA/CA-CZB0750/2020	EPI_ISL_429018	2020-04-03	North America	USA	California	North America / USA / California / San Francisco	Human	Original	Nasopharyngeal/oropharyngeal swab		Illumina Novaseq	minimap2 / iVar			B.1	GH
+USA/CA-SR0178/2020	EPI_ISL_437599	2020-03-20	North America	USA	California	North America / USA / California / San Diego	Human	Original	Nasopharyngeal swab		Illumina	iVar 1.2			B.1	GH
+USA/CA-SR0461/2020	EPI_ISL_467983	2020-03-30	North America	USA	California	North America / USA / California / San Diego	Human	Original	Nasopharyngeal swab		Illumina	iVar 1.2			B.1	G
+USA/FL-BPHL-0155/2020	EPI_ISL_480806	2020-04-01	North America	USA	Florida	North America / USA / Florida	Human	Original			Illumina MiSeq	bwa v0.7.17; ivar v1.2.2			B.1.1	GR
+USA/FL-BPHL-0247/2020	EPI_ISL_480898	2020-05-02	North America	USA	Florida	North America / USA / Florida	Human	Original			Illumina MiSeq	bwa v0.7.17; ivar v1.2.2			B.1.2	GH
+USA/FL-BPHL-0460/2020	EPI_ISL_495366	2020-03-24	North America	USA	Florida	North America / USA / Florida	Human		unknown	unknown	unknown	Original			B.1	G
+USA/FL-BPHL-0540/2020	EPI_ISL_508743	2020-03-21	North America	USA	Florida	North America / USA / Florida	Human	Original			Illumina MiSeq	bwa v0.7.17; ivar v1.2.2			B.1.110	GH
+USA/FL-BPHL-0722/2020	EPI_ISL_509780	2020-07-21	North America	USA	Florida	North America / USA / Florida	Human		unknown	unknown	unknown	Original			B.1	GH
+USA/FL-BPHL-0739/2020	EPI_ISL_509797	2020-07-15	North America	USA	Florida	North America / USA / Florida	Human		unknown	unknown	unknown	Original			B.1	GH
+USA/IA-CDC-8200/2020	EPI_ISL_447842	2020-03-07	North America	USA	Iowa	North America / USA / Iowa	Human	Original	Nasopharyngeal swab		Illumina MiSeq, Sanger	Sequencher 5.4.6, bcftools 1.9, bowtie2 2.3.3.1			B.1	G
+USA/IL-NM019/2020	EPI_ISL_444529	2020-03-15	North America	USA	Illinois	North America / USA / Illinois / Chicago	Human	Original	Nasopharyngeal swab		Nanopore MinION	ARTIC	[W] Stretches of NNNs (4.56% of overall sequence).	warn	B.1.5	G
+USA/IN_72003/2020	EPI_ISL_426422	2020-03-07	North America	USA	Indiana	North America / USA / Indiana	Human	Original	nasopharyngeal swab		Illumina MiSeq, Sanger	bcftools 1.9, bowtie2 2.3.3.1, Sequencher 5.4.6	Gap of 21 nucleotides when compared to the reference sequence.	warn	B.1	GH
+USA/LA-GBCL-26684456/2020	EPI_ISL_485901	2020-04-11	North America	USA	Louisiana	North America / USA / Louisiana / East Baton Rouge	Human	Original	Nasopharyngeal swab		Illumina NextSeq	bwa v0.7.17-r1188, freebayes v1.3.1, samtools 1.9, bedtools v2.25.0, bamclipper v1.0, trimmomatic v0.36	Stretches of NNNs (2.26% of overall sequence). NS7b is missing.	warn	B.1	GH
+USA/MA-MGH-00203/2020	EPI_ISL_460288	2020-03-27	North America	USA	Massachusetts	North America / USA / Massachusetts	Human	Original	oronasopharynx		Illumina NovaSeq				B.1	GH
+USA/MA-MGH-00516/2020	EPI_ISL_460347	2020-03-14	North America	USA	Massachusetts	North America / USA / Massachusetts	Human	Original	oronasopharynx		Illumina NovaSeq				B.1	GH
+USA/MI-MDHHS-SC21120/2020	EPI_ISL_507896	2020-03-27	North America	USA	Michigan	orth America / USA / Michigan	Human	Original			Illumina NextSeq	bwa v. 0.7.17; bcftools v. 1.7			B.1	GH
+USA/MN-MDH-1204/2020	EPI_ISL_477293	2020-04-20	North America	USA	Minnesota	North America / USA / Minnesota	Human	Original			MiSeq	minimap2/ivar			B.1	GH
+USA/MN-MDH-1381/2020	EPI_ISL_507969	2020-07-06	North America	USA	Minnesota	North America / USA / Minnesota	Human	Original			MiSeq	minimap2/ivar			B.1	GH
+USA/MN-UW-MAYO71/2020	EPI_ISL_491000	2020-03-16	North America	USA	Minnesota	North America / USA / Minnesota	Human	Original	NP/OP swab		Illumina				B.1	GH
+USA/NE-875/2020	EPI_ISL_428202	2020-03-25	North America	USA	Nebraska	North America / USA / Nebraska	Human	Original			Nanopore MinION	ARTIC lab-on-SSD	Stretches of NNNs (1.11% of overall sequence).	warn	B.1	GH
+USA/NY-NYUMC150/2020	EPI_ISL_424957	2020-04-01	North America	USA	New York	North America / USA / New York / Bronx	Human	Original			Targeted capture, Illumina Novaseq	bwa/0.7.17, mapped to NC_045512v2, bases below 30x coverage masked			B.1.1	GR
+USA/NY-NYUMC161/2020	EPI_ISL_424968	2020-04-01	North America	USA	New York	North America / USA / New York / Bronx	Human	Original			Targeted capture, Illumina Novaseq	bwa/0.7.17, mapped to NC_045512v2, bases below 30x coverage masked			B.1	GH
+USA/NY-NYUMC43/2020	EPI_ISL_419704	2020-03-18	North America	USA	New York	North America / USA / New York / Manhattan	Human	Original			Targeted capture, Illumina Novaseq	bwa/0.7.17, mapped to NC_045512v2, bases <30x masked			B.1	GH
+USA/NY-NYUMC563/2020	EPI_ISL_444680	2020-03-30	North America	USA	New York	North America / USA / New York / Nassau County	Human	Original			Ribo-depleted, Illumina Novaseq	bwa/0.7.17, mapped to NC_045512v2, bases below 20x coverage masked			B.1.5	G
+USA/NY-NYUMC657/2020	EPI_ISL_444774	2020-03-17	North America	USA	New York	North America / USA / New York / Manhattan	Human	Original			Ribo-depleted, Illumina Novaseq	bwa/0.7.17, mapped to NC_045512v2, bases below 20x coverage masked			B.1	GH
+USA/NY-NYUMC722/2020	EPI_ISL_451437	2020-03-26	North America	USA	New York	North America / USA / New York / Manhattan	Human	Original			Illumina NovaSeq (Ribo-depleted)	bwa/0.7.17, mapped to NC_045512v2, bases below 20x coverage masked			B.1.26	GH
+USA/NY-NYUMC836/2020	EPI_ISL_456109	2020-04-21	North America	USA	New York	North America / USA / New York / Queens	Human	Original			Ribo-depleted, Illumina Novaseq	bwa/0.7.17, mapped to NC_045512v2, bases below 20x coverage masked			B.1	GH
+USA/NY-WCMP10D06P/2020	EPI_ISL_427566	2020-03-15	North America	USA	New York	North America / USA / New York / Manhattan	Human	Original	Nasopharnygeal swab		Illumina Novaseq	Metagenomic read filtering by kraken2, alignment by bwa-mem, variant and consensus calling by ivar. Also validated by SPAdes and IRMA assemblies.			B.1	GH
+USA/NY-WCMP11F04P/2020	EPI_ISL_427595	2020-03-16	North America	USA	New York	North America / USA / New York / Manhattan	Human	Original	Nasopharnygeal swab		Illumina Novaseq	Metagenomic read filtering by kraken2, alignment by bwa-mem, variant and consensus calling by ivar. Also validated by SPAdes and IRMA assemblies.			B.1	GH
+USA/OR-OHSU-1133/2020	EPI_ISL_509147	2020-07-10	North America	USA	Oregon	North America / USA / Oregon / Washington County	Human	Original	Nasopharyngeal Swab		Illumina NextSeq 500, Freed-Silander v1-1200bp (see https://doi.org/10.1101/2020.05.28.122648)	Trimmomatic, BWA mem, Picard/GATK (duplicates, BQSR, indel realignment, coverage), LoFreq, bcftools consensus (>50%, 10x min.)			B.1	GH
+USA/OR-OHSU-1157/2020	EPI_ISL_509151	2020-07-10	North America	USA	Oregon	North America / USA / Oregon / Washington County	Human	Original	Nasopharyngeal Swab		Illumina NextSeq 500, Freed-Silander v1-1200bp (see https://doi.org/10.1101/2020.05.28.122648)	Trimmomatic, BWA mem, Picard/GATK (duplicates, BQSR, indel realignment, coverage), LoFreq, bcftools consensus (>50%, 10x min.)			B.1.1	GR
+USA/OR-OHSU-1169/2020	EPI_ISL_509154	2020-07-11	North America	USA	Oregon	North America / USA / Oregon / Clackamas County	Human	Original	Nasopharyngeal Swab		Illumina NextSeq 500, Freed-Silander v1-1200bp (see https://doi.org/10.1101/2020.05.28.122648)	Trimmomatic, BWA mem, Picard/GATK (duplicates, BQSR, indel realignment, coverage), LoFreq, bcftools consensus (>50%, 10x min.)			B.1	G
+USA/OR-OHSU-1323/2020	EPI_ISL_509183	2020-07-14	North America	USA	Oregon	North America / USA / Oregon	Human	Original	Nasopharyngeal Swab		Illumina NextSeq 500, Freed-Silander v1-1200bp (see https://doi.org/10.1101/2020.05.28.122648)	Trimmomatic, BWA mem, Picard/GATK (duplicates, BQSR, indel realignment, coverage), LoFreq, bcftools consensus (>50%, 10x min.)			B.1.1	GR
+USA/OR-OHSU-1481/2020	EPI_ISL_509212	2020-07-17	North America	USA	Oregon	North America / USA / Oregon / Multnomah County	Human	Original	Nasopharyngeal Swab		Illumina NextSeq 500, Freed-Silander v1-1200bp (see https://doi.org/10.1101/2020.05.28.122648)	Trimmomatic, BWA mem, Picard/GATK (duplicates, BQSR, indel realignment, coverage), LoFreq, bcftools consensus (>50%, 10x min.)			B.1	G
+USA/OR-UW-13394/2020	EPI_ISL_501083	2020-07-01	North America	USA	Oregon	North America / USA / Oregon	Human	Original			NextSeq 500		Gap of 2 nucleotides when compared to the reference sequence.	info	B.1	GH
+USA/PA-MGEL89/2020	EPI_ISL_454372	2020-03-31	North America	USA	Pennsylvania	North America / USA / Pennsylvania / Pittsburgh	Human	Original	NP swab		Illumina NextSeq	breseq v0.34; gdtools			B.1	GH
+USA/TX-HMH016/2020	EPI_ISL_434726	2020-03-13	North America	USA	Texas	North America / USA / Texas	Human	Original			Oxford Nanopore	ARTIC V1			B.1.2	GH
+USA/TX-HMH0284/2020	EPI_ISL_434912	2020-03-27	North America	USA	Texas	North America / USA / Texas	Human	Original			Oxford Nanopore	ARTIC V1			B.1	GH
+USA/TX-HMH036/2020	EPI_ISL_434745	2020-03-09	North America	USA	Texas	North America / USA / Texas	Human	Original			Oxford Nanopore	ARTIC V1			B.1	GH
+USA/TX-HMH0412/2020	EPI_ISL_434997	2020-03-31	North America	USA	Texas	North America / USA / Texas	Human	Original			Oxford Nanopore	ARTIC V1			B.1	GH
+USA/UT-01607/2020	EPI_ISL_449837	2020-04-06	North America	USA	Utah	North America / USA / Utah	Human	Original			Illumina MiSeq	BWA + Ivar 1.2			B.1.2	GH
+USA/UT-02518/2020	EPI_ISL_493106	2020-04-23	North America	USA	Utah	North America / USA / Utah	Human	Original			Illumina MiSeq	BWA + Ivar	Stretches of NNNs (1.02% of overall sequence).	warn	B.1	GH
+USA/UT-034/2020	EPI_ISL_417977	2020-03-20	North America	USA	Utah	North America / USA / Utah	Human	Original			Illumina Miseq	bwa + ivar from the artic V1 protocol			B.1	GH
+USA/UT-CDC-1251/2020	EPI_ISL_510160	2020-04-25	North America	USA	Utah	North America / USA / Utah	Environment		unknown	unknown	unknown	original	swab		B.1	G
+USA/VA-DCLS-0441/2020	EPI_ISL_477657	2020-05-02	North America	USA	Virginia	North America / USA / Virginia	Human	Original			Illumina Miseq	minimap2/ivar			B.1	GH
+USA/WA-S107/2020	EPI_ISL_417160	2020-02-29	North America	USA	Washington	North America / USA / Washington / King County	Human	Original			Illumina Nextseq	Seattle Flu Assembly Pipeline			A.1	S
+USA/WA-S1301/2020	EPI_ISL_495751	2020-05-14	North America	USA	Washington	North America / USA / Washington / Yakima County	Human	Original			Illumina Nextseq	Seattle Flu Assembly Pipeline			B.1.1.26	GR
+USA/WA-S388/2020	EPI_ISL_434148	2020-03-27	North America	USA	Washington	North America / USA / Washington / Skagit County	Human	Original			Illumina Nextseq	Seattle Flu Assembly Pipeline			B.1.43	GH
+USA/WA-S815/2020	EPI_ISL_449985	2020-04-17	North America	USA	Washington	North America / USA / Washington / Snohomish County	Human	Original			Illumina Nextseq	Seattle Flu Assembly Pipeline			B.1.21	GH
+USA/WA-S90/2020	EPI_ISL_417143	2020-02-29	North America	USA	Washington	North America / USA / Washington / Umatilla County	Human	Original			Illumina Nextseq	Seattle Flu Assembly Pipeline			A.1	S
+USA/WA-UW-13330/2020	EPI_ISL_501139	2020-07-03	North America	USA	Washington	North America / USA / Washington	Human	Original			NextSeq 500		Gap of 4 nucleotides when compared to the reference sequence. %UniqueMutations 0.10%.	warn	B.1.1	GR
+USA/WA-UW-1919/2020	EPI_ISL_424296	2020-03-23	North America	USA	Washington	North America / USA / Washington	Human	Original			unknown	unknown			A.1	S
+USA/WA-UW-2608/2020	EPI_ISL_486005	2020-03-29	North America	USA	Washington	North America / USA / Washington	Human	Original	NP/OP swab		Illumina				B.1.2	GH
+USA/WA-UW117/2020	EPI_ISL_416655	2020-03-11	North America	USA	Washington	North America / USA / Washington	Human	Original			Illumina NextSeq	custom			B.1	GH
+USA/WA-UW155/2020	EPI_ISL_416693	2020-03-12	North America	USA	Washington	North America / USA / Washington	Human	Original			Illumina NextSeq	custom			B.1.21	GH
+USA/WI-GMF-00921/2020	EPI_ISL_426160	2020-04-03	North America	USA	Iowa	North America / USA / Iowa / Allamakee County	Human	Original			Ion Torrent				B.1.29	GH
+USA/WI-GMF-01602/2020	EPI_ISL_435400	2020-04-23	North America	USA	Wisconsin	North America / USA / Wisconsin / La Crosse County	Human	Original			Ion Torrent	unknown			B.1	GH
+USA/WI-GMF-M00007/2020	EPI_ISL_471157	2020-06-01	North America	USA	Wisconsin	North America / USA / Wisconsin / La Crosse County	Human	Original			Ion Torrent	unknown			B.1	GH
+USA/WI-UW-20/2020	EPI_ISL_450700	2020-03-16	North America	USA	Wisconsin	North America / USA / Wisconsin	Human	Original	Nasal Swab		Nanopore GridION -- ARTIC protocol	Custom -- minimap2			B.1	GH
+USA/WI-UW-336/2020	EPI_ISL_436630	2020-03-25	North America	USA	Wisconsin	North America / USA / Wisconsin / Milwaukee county	Human	Original	Nasal Swab		Nanopore GridION -- ARTIC protocol	custom -- minimap2			B.1.1	GR
+USA/WI-UW-779/2020	EPI_ISL_495483	2020-07-03	North America	USA	Wisconsin	North America / USA / Wisconsin / Dane county	Human	Original	Nasal Swab		Nanopore GridION -- ARTIC protocol	Custom -- minimap2			B.1.26	GH
+USA/WI-UW-791/2020	EPI_ISL_495495	2020-07-03	North America	USA	Wisconsin	North America / USA / Wisconsin / Dane county	Human	Original	Nasal Swab		Nanopore GridION -- ARTIC protocol	Custom -- minimap2			B.1.1.10	GR
+USA/WI-UW-885/2020	EPI_ISL_509887	2020-07-15	North America	USA	Wisconsin	North America / USA / Wisconsin / Dane county	Human		unknown	unknown	unknown	Original	Nasal Swab		B.1.1	GR
+USA/WY-WYPHL-00055/2020	EPI_ISL_462947	2020-03-24	North America	USA	Wyoming	North America / USA / Wyoming	Human	Original			Illumina MiSeq	ARTIC/iVar	[W] Stretches of NNNs (2.24% of overall sequence).	warn	B.1	G
+Wales/PHWC-15C462/2020	EPI_ISL_472490	2020-03-26	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original			ILLUMINA		[W] Stretches of NNNs (3.44% of overall sequence).	warn	B.1.1	GR
+Wales/PHWC-16296A/2020	EPI_ISL_473042	2020-05-20	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original			ILLUMINA		[W] Stretches of NNNs (2.94% of overall sequence). Gap of 2 nucleotiides at refpos 27879 (NS7b) - probable frameshift	warn	B.1.1.29	GR
+Wales/PHWC-24947/2020	EPI_ISL_419460	2020-03-19	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	iVar consensus	[W] Stretches of NNNs (2.38% of overall sequence). 	warn	B.3	L
+Wales/PHWC-26505/2020	EPI_ISL_422312	2020-03-28	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus	Stretches of NNNs (3.69% of overall sequence).	warn	B.1.1	GR
+Wales/PHWC-26620/2020	EPI_ISL_422164	2020-03-26	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus			B.1.122	GH
+Wales/PHWC-26BC7/2020	EPI_ISL_422148	2020-03-27	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus			B.1	G
+Wales/PHWC-2A61D/2020	EPI_ISL_445595	2020-04-06	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus			B.1.1.2	GR
+Wales/PHWC-2C2DB/2020	EPI_ISL_474304	2020-04-03	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original			Illumina		[W] Stretches of NNNs (2.20% of overall sequence).	warn	B.1.1.16	GR
+Wales/PHWC-2C2EA/2020	EPI_ISL_474305	2020-03-30	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original			Illumina		[W] Stretches of NNNs (1.10% of overall sequence).	warn	B.1.1.30	GR
+Wales/PHWC-2EA1D/2020	EPI_ISL_446100	2020-04-07	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus	[W] Stretches of NNNs (1.73% of overall sequence).	warn	B.1.1.16	GR
+Wales/PHWC-309DF/2020	EPI_ISL_446304	2020-04-08	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus	[W] Stretches of NNNs (2.83% of overall sequence).	warn	B.2	V
+Wales/PHWC-30CD6/2020	EPI_ISL_446349	2020-04-11	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus	[W] Stretches of NNNs (1.23% of overall sequence).	warn	B.1.1	GR
+Wales/PHWC-30F64/2020	EPI_ISL_446384	2020-04-09	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus	[W] Stretches of NNNs (3.29% of overall sequence).	warn	B.1.5.9	G
+Wales/PHWC-31D78/2020	EPI_ISL_446563	2020-04-11	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human		unknown	unknown	unknown	Original	Dry swab		B.1.5	G
+Wales/PHWC-32DD1/2020	EPI_ISL_446691	2020-04-14	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus	[W] Stretches of NNNs (1.50% of overall sequence).	warn	B.1.44	GH
+Wales/PHWC-342FE/2020	EPI_ISL_446901	2020-04-14	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original	Dry swab		Illumina	Mapping consensus	[W] Stretches of NNNs (1.74% of overall sequence).	warn	B.1.5.9	G
+Wales/PHWC-363AE/2020	EPI_ISL_474660	2020-04-29	Europe	United Kingdom	Wales	Europe / United Kingdom / Wales	Human	Original			Illumina				B.1.1.29	GR
+Wuhan/HB-WHCM-101/2020	EPI_ISL_455399	2020-03-02	Asia	China	Hubei	Asia / China / Hubei / Wuhan	Human	Original	Throat swabs		Nanopore Minion	ARTIC	[I] Gap of 1 nucleotide(s) found at refpos 18109 (FRAMESHIFT) confirmed by the submitter. Gap of 1 nucleotides when compared to the reference sequence confirmed by the submitter.	info	B	L
+Wuhan/IPBCAMS-WH-01/2019	EPI_ISL_402123	2019-12-24	Asia	China	Hubei	Asia / China / Hubei / Wuhan	Human	Original	Bronchoalveolar lavage fluid						B	L
+Xinyu/JX124/2020	EPI_ISL_421260	2020-01-26	Asia	China	Jiangxi	Asia / China / Jiangxi / Xinyu	Human	Original				CLC Genomics Workbench 12			B	O
+Zhejiang/CN3/2020	EPI_ISL_455686	2020-01-26	Asia	China	Zhejiang	Asia / China /  Zhejiang	Human	unknown			Illumina	Geneious v. 11.1.5			B	L
